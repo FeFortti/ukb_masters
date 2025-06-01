@@ -1,2 +1,2 @@
 # ukb_masters
-Repositório oficial de códigos, bancos, dicionários, análises exploratórias de dados, dissertação e todos os arquivos envolvidos no projeto de mestrado intitulado ""
+Repositório oficial do projeto de mestrado intitulado "Predição de Acidente Vascular Cerebral ou Ataque Isquêmico Transitório: aplicação e comparação de técnicas de machine learning"
